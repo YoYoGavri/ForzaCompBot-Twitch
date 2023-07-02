@@ -39,22 +39,22 @@ Head over to [**FCB**](twitch.tv/forzacompbot) in order to invite the bot to you
 
 ### HRA Integration
 
-`#track discord` - Get's HRA discord link\
-`#track submit` - Get track submission requirements\
-`#track tunes [license tier] [flag]` - Enter the respective license tier into `[license tier]` and car name into the `[flag]` argument to get the respective info
+`#hra` - Get's HRA discord link\
+`#hra submit` - Get track submission requirements\
+`#hra tunes [license tier] [car name]` - Enter the respective license tier into `[license tier]` and the car name into the `[car name]` argument to get the respective info
 * Current `[license tier]` values are: N, B, A, P, and L
-* Current `[flag]` values are: miata, gtr, m3, peugeot, viper, focus, gt350r, rs6, wrx, lola, huracan, 650x, 240sx, mr2, nsx, r8, celica, fairlady and 458 
+* Current `[car name]` values are: miata, gtr, m3, peugeot, viper, focus, gt350r, rs6, wrx, lola, huracan, 650x, 240sx, mr2, nsx, r8, celica, fairlady and 458 
 * Example: `#track tunes a viper` will get you the tune code for the tracks that use the viper
 
-`#track livery [flag]` - Enter the respective car name into the `[flag]` argument to get the respective livery code
+`#hra livery [car name]` - Enter the respective car name into the `[car name]` argument to get the respective livery code
 * Current `[license tier]` values are: N, B, A, P, and L
 * Current `[flag]` values are: miata, gtr, m3, peugeot, viper, focus, gt350r, rs6, wrx, lola
 * Example: `#track tunes a viper` will get you the tune code for the tracks that use the viper
 
-`#track [license tier]-[track number]` - Enter this command to the track info for the given track
+`#hra [license tier]-[track number]` - Enter this command to the track info for the given track
 * Current `[license tier]` values are: N, B, A, P and L
 * Current `[track number]` values are: 1 to 5 for N tier, and 1-10 for all other tiers
-* Example: `#track n-5`, `#track a-9`, etc.
+* Example: `#hra n-5`, `#hra a-9`, etc.\
 `#fcb-help` - Use this command to get a link to the documentation\
 `#fcb-info` - Use this command in a channel where FCB is added to get info on how to set up the bot
 ## Authors

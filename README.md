@@ -54,7 +54,8 @@ Head over to [**FCB**](twitch.tv/forzacompbot) in order to invite the bot to you
 `#hra [license tier]-[track number]` - Enter this command to the track info for the given track
 * Current `[license tier]` values are: N, B, A, P and L
 * Current `[track number]` values are: 1 to 5 for N tier, and 1-10 for all other tiers
-* Example: `#hra n-5`, `#hra a-9`, etc.\
+* Example: `#hra n-5`, `#hra a-9`, etc.
+
 `#fcb-help` - Use this command to get a link to the documentation\
 `#fcb-info` - Use this command in a channel where FCB is added to get info on how to set up the bot
 ## Authors

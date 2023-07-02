@@ -16,7 +16,7 @@ To add the bot to your twitch channel, click [**here**](https://www.twitch.tv/fo
 
 ## Installation
 
-Head over to `www.twitch.tv/forzacompbot` in order to invite the bot to your channel. Enter the command "#join" in FCB's chat to invite the bot to your channel.  
+Head over to [**FCB**](https://www.twitch.tv/forzacompbot) in order to invite the bot to your channel. Enter the command "#join" in FCB's chat to invite the bot to your channel.  
 ## Documentation
 
 `[track name]` can accept lowercase track names, and supports partial track name recognition. However, misspelling the track name will not yield a result

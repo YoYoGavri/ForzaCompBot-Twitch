@@ -6,6 +6,9 @@ To add the bot to your twitch channel, click [**here**](https://www.twitch.tv/fo
 
 ## Features
 
+- Finding the WR Holder for a given FH3 - Base Game Track
+- Finding the WR Holder for a given FH3 - Hot Wheels DLC Track
+- Finding the WR Holder for a given FH3 - Blizzard Mountain DLC Track
 - Finding the WR Holder for a given FH4 - Fortune Island DLC Track
 - Finding the WR Holder for a given FH4 - Lego Speed Champions DLC Track
 - Finding the WR Holder for a given FH4 - Base Game Track
@@ -21,11 +24,14 @@ Head over to [**FCB**](https://www.twitch.tv/forzacompbot) in order to invite th
 
 `[track name]` can accept lowercase track names, and supports partial track name recognition. However, misspelling the track name will not yield a result
 
+`#fh3 [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH3\
 `#fh4 [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH4\
 `#fh5 [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH5\
+`#fh3_hw [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH3 Hot Wheels DLC\
+`#bm [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH3 Blizzard Mountain DLC\
 `#fortune [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH4 Fortune Island DLC\
-`#hw [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH5 Hot Wheels DLC\
 `#lego [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH4 Lego Speed Champions DLC\
+`#hw [class] [surface type] [track name]` - Get the current WR for a specified rivals track on FH5 Hot Wheels DLC\
 `#ping` - FCB replies with "Pong" if the bot is online\
 `#horizon+` - Github [link](https://github.com/Sappytron/HorizonPlus) to the Simhub Overlay for FH5 made by [Sappytron](https://github.com/Sappytron)
 
